@@ -1,0 +1,23 @@
+name: Food i could die for.
+favicon: null
+layout_spectrum: 0.9857858121395111
+typography_spectrum: 0.7156699053011835
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7529819016344845
+  lightness: 0.8034313777461648
+  saturation: 0.30256118904799223
+  rhythmicContrast: 0.075170285301283
+purpose: []
